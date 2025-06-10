@@ -16,25 +16,13 @@ main {
 h1, h2 {
   color: #3e2f1c;
 }
-ul {
-  margin-left: 20px;
-}
-ul li {
-  margin-bottom: 6px;
-}
 section {
   margin-top: 32px;
 }
-textarea, input {
+img {
   width: 100%;
-  margin-top: 8px;
-  margin-bottom: 12px;
-  padding: 8px;
-  font-family: inherit;
-  font-size: 1rem;
-}
-.drawing-box {
-  height: 160px;
-  border: 2px dashed #ccc;
-  margin-top: 10px;
+  max-width: 600px;
+  margin: 12px 0;
+  border: 2px solid #d9cba3;
+  border-radius: 8px;
 }
